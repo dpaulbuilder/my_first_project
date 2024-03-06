@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+header{
+
+    background-image: url(real\ image\ 2.webp); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    padding-bottom: 26%;   
+    
+}
+
+.menu{ 
+
+    margin-left: 16%;
+    margin-top: 10px;
+}
+
+.menu a{
+
+    text-decoration: none;
+    color: white;
+    padding-right: 40px;
+    display: inline-block;
+
+}
+
+.menu a:hover{
+
+    color: rgb(255, 72, 0);
+
+    }
+
+.donate{
+
+display: inline-block;
+margin-left: 6%;
+
+
+}
+
+.donate .donate-btn{
+    background-color: rgb(255, 72, 0);
+    padding: 15px;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+
+.donate .donate-btn:hover{
+
+    background-color: darkblue;
+    color: white;
+}
+
+
+.logo{
+    position: absolute;
+    top: 40px;
+}
+
+.content h1{
+    color: white;
+    letter-spacing: -1px;
+    font-size: 60px;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.content p{
+    font-size: 25px;
+    color: white;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+.content-b{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+    margin-left: 150px;
+    padding: 10px 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+
+
+}
+.content-b:hover{
+
+    color: rgb(255, 255, 255);
+}
+
+main{
+    background-color: white;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+h2{
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+
+.big-table{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    border: 500px;
+}
+
+.pic3{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.menup{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.Donations{
+    padding: 10px 20px;
+    background-color: coral;
+    color: whitesmoke;
+    text-decoration: none;
+    display: inline-block;
+    border: 30px;
+    text-align: center;
+}
+.Donations:hover{
+    background-color: orange
+    
+}
+
+.Program{
+    text-decoration: none;
+    display: inline-block;
+    background-color: white;
+    color: orangered;
+    border: solid 1px orangered;
+    padding: 8px;
+    margin-left: 10px;
+}
+.Program:hover{
+    background-color: orangered;
+    color: white;
+    transition: ease-in-out;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding-top: 20px;
+}
+
+.locate{
+    font-size: 20px;
+    margin-left: 10%;
+    padding-top: 20px;
+}
+h6{
+    font-size: 1.7rem;
+}
+
+.abt{
+    font-size: 20px;
+}
+
+button{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+.at:hover{
+    transition: ease-out;
+}
